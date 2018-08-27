@@ -5,4 +5,4 @@ duration: Summer 2018
 layout: project
 ---
 
-this is a description of the project
+this is the content of the project
